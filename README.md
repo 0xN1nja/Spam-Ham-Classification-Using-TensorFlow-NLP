@@ -5,3 +5,4 @@ Abhimanyu Sharma, https://github.com/0xN1nja
 # Dataset I Used For This Model
 https://www.kaggle.com/datasets/venky73/spam-mails-dataset
 # TensorBoard Logs
+![TensorBoard Logs](https://raw.githubusercontent.com/0xN1nja/Spam-Ham-Classification-Using-TensorFlow-NLP/master/epoch_acc_and_loss.png)
